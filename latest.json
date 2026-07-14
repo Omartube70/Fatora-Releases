@@ -6,7 +6,7 @@
   "FileSize": 52428800,
   "MD5Hash": "",
   "IsCritical": false,
-  "MinimumVersion": "1.5.0",
+  "MinimumVersion": "1.0.0",
   "ReleaseNotes": "🎉 الإصدار الأول من Fatora POS\n\n✨ المميزات:\n• نظام نقاط البيع الكامل\n• إدارة المنتجات والفئات\n• نظام الفواتير والمرتجعات\n• إدارة الموردين\n• التقارير والإحصائيات\n• نظام الصلاحيات والمستخدمين\n• طباعة الفواتير والباركود\n• نظام الترخيص والتفعيل\n\n📦 متطلبات التشغيل:\n• Windows 7 أو أحدث\n• .NET Framework 4.8\n• SQL Server Express 2019 أو أحدث\n\n👤 بيانات تسجيل الدخول الافتراضية:\n• اسم المستخدم: Admin\n• كلمة المرور: Admin@123",
   "ChangelogUrl": "https://github.com/Omartube70/Fatora-Releases/releases/tag/v1.0.0"
 }
